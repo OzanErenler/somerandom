@@ -1,0 +1,57 @@
+
+ .bgc {
+     background-color: rgb(5, 5, 5);
+ }
+.color-red.fw-bold {
+    color: red;
+    font-weight: bolder;
+
+}
+
+.fs{
+ font-size: 44px;
+}
+
+.fss {
+    font-size: 24px;
+}
+
+a:link {
+  color: red;
+}
+
+
+a:visited {
+  color: red;
+}
+
+.heading {
+    width: 200px;
+    margin:auto;
+}
+
+.sub {
+   margin-left: 770px;
+    float:left;
+    
+}
+
+.sub2 {
+    margin-left: 450px;
+    float: left;
+}
+
+.sub3 {
+   margin-left: 50px;
+    float: left;
+}
+
+.pic { 
+    margin-top: 130px;
+    margin-left: 630px;
+    margin-bottom: 10px;
+}
+.pic2 { 
+    margin-top: 10px;
+    margin-left: 630px;
+}
